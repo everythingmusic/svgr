@@ -5,7 +5,7 @@
     "ariakit": "^2.0.0-next.43",
     "brace": "^0.11.1",
     "final-form": "^4.20.9",
-    "gatsby": "^4.24.5",
+    "gatsby": "^5.14.5",
     "gatsby-plugin-google-analytics": "^4.24.0",
     "history": "^5.3.0",
     "isomorphic-fetch": "^3.0.0",
